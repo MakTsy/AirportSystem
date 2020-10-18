@@ -27,3 +27,6 @@ POST "/customControl/redLine"
 
 BorderControlController
 POST "/borderControl"
+
+BaggageClaimController
+POST "/getMyBaggage"
